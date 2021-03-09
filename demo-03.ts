@@ -4,7 +4,7 @@
  * undefined
  * symbol
  * boolean
- * void
+ * void代表无的意思没有返回值
  */
 const count: number = 918;
 const myName: string = "xiaoxu";
