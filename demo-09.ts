@@ -5,7 +5,7 @@ interface Girl {
   age: number;
   bust: number;
   waistline?: number;
-  [propname: string]: any;
+  [propname: string]: any; // 对属性名的类型定义
   say(): string;
 }
 
